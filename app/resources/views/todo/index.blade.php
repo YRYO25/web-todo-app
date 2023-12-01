@@ -16,7 +16,7 @@
                     未完了リスト
                 </strong>
             </a>
-            <a href="{{ route('todo.create') }}" class="btn btn-primary my-3 btn-green">
+            <a href="{{ route('todo.create.blade.php') }}" class="btn btn-primary my-3 btn-green">
                 <i class="fa-solid fa-circle-plus pe-2"></i>
                 <strong>
                     新規登録
